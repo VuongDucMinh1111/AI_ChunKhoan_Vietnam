@@ -62,14 +62,7 @@ pip install -r requirements.txt
   python Step6_Giao_Dien_Desktop_App.py
   ```
 
----
 
-## 📤 HƯỚNG DẪN ĐẨY LÊN GITHUB
-
-1. Tạo một repository mới trên GitHub (ví dụ: `ai-chung-khoan-vn`).
-2. Mở terminal tại thư mục này và chạy các lệnh sau:
-```bash
-git remote add origin <URL_REPOSITORY_CUA_BAN>
 git branch -M main
 git push -u origin main
 ```
