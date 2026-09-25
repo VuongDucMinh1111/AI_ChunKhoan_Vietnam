@@ -43,3 +43,8 @@ venv.bak/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Presentation files
+*.pptx
+presentation_assets/
+build_powerpoint.py
