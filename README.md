@@ -62,7 +62,8 @@ pip install -r requirements.txt
   python Step6_Giao_Dien_Desktop_App.py
   ```
 
+---
 
-git branch -M main
-git push -u origin main
-```
+## 📊 TÀI LIỆU THUYẾT TRÌNH (SLIDES)
+- 📎 **File PowerPoint:** [He_Thong_AI_Chung_Khoan_Quant.pptx](He_Thong_AI_Chung_Khoan_Quant.pptx) (Đầy đủ slide giới thiệu giải pháp, kiến trúc 3 tầng, quy trình 6 bước, thông số kỹ thuật và hạn chế thực tế).
+
